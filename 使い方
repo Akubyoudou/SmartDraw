@@ -1,0 +1,1 @@
+<div>使い方</div><div><br></div><div>1：プロセの開いてるエディタにSmartDraw.jarをドラッグアンドドロップ。</div><div><br></div><div>2:一回コアを作成「new CORE(this);」して1drawで1回「CORE.CoreUpdate();」を行うようにコードを書く。</div><div><br></div><div>3:DrawObjectとSceneを継承した何かを作る</div><div><br></div><div>眠いから気が向いたら詳しいの書くわ</div>  
