@@ -1,6 +1,6 @@
 # SmartDraw
-<\n>I will never read your comments.
-<\n>You can use this code free.
+I will never read your comments.
+You can use this code free.
 I do not claim any rights to this code to university students.
 
 FUNの学生なら改変でもなんでも好きに使って。読めるなら。
